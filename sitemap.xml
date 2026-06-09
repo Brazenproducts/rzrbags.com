@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rzrbags.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://rzrbags.com/best-rzr-storage-bags.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrbags.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrbags.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrbags.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rzrbags.com/rzrbags-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://rzrbags.com/best-rzrbags-without-overpaying.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://rzrbags.com/smart-rzrbags-shopping-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://rzrbags.com/what-we-look-for-rzrbags-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://rzrbags.com/rzrbags-tested-ranked-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://rzrbags.com/rzrbags-market-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://rzrbags.com/rzrbags-guide-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://rzrbags.com/rzrbags-quality-vs-marketing.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://rzrbags.com/rzrbags-what-buyers-need-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://rzrbags.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
